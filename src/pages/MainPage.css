@@ -1,0 +1,11 @@
+.pokemonGrid{
+   display:grid;
+   gap: 30px;
+   grid-template-columns: repeat(4,1fr);
+}
+.card{
+    background-color:gold;
+    color:red;
+    padding:20px 20px;
+    border-radius: 10%;
+}
